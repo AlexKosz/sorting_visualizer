@@ -1,0 +1,16 @@
+
+
+.array-container {
+    margin: 50px;
+    background-color: #fff;
+  }
+  
+  .array-bar {
+    width: 5px;
+    display: inline-block;
+    margin: 0 2px;
+  }
+
+  .nav button{
+    margin: 0 2px;
+  }
